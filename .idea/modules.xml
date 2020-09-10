@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Codefield.iml" filepath="$PROJECT_DIR$/.idea/Codefield.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleDataTransferApp/SimpleDataTransferApp.iml" filepath="$PROJECT_DIR$/SimpleDataTransferApp/SimpleDataTransferApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../SimpleMVC/SimpleMVC.iml" filepath="$PROJECT_DIR$/../SimpleMVC/SimpleMVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleMVC/SimpleMVC1.iml" filepath="$PROJECT_DIR$/SimpleMVC/SimpleMVC1.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBootMvc/SpringBootMvc.iml" filepath="$PROJECT_DIR$/SpringBootMvc/SpringBootMvc.iml" />
     </modules>
   </component>
