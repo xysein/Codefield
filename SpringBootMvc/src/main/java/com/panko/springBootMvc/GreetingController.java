@@ -19,23 +19,19 @@ class GreetingController {
         this.messageRepository = messageRepository;
     }
 
-    @GetMapping("/greeting")
-    public String greeting(@RequestParam(name = "name", required = false, defaultValue = "World")
-                           String name,
-                           Map<String, Object> model) {
-        model.put("name", name);
-
+    @GetMapping("/")
+    public String greeting() {
         return "greeting";
     }
 
-    @GetMapping
+    @GetMapping("/main")
     public String main(Map<String, Object> model) {
         model.put("messages", messageRepository.findAll());
 
         return "main";
     }
 
-    @PostMapping
+    @PostMapping("/main")
     public String add(@RequestParam String text, @RequestParam String tag, Map<String, Object> model) {
         Message message = new Message(text, tag);
         messageRepository.save(message);

@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Codefield.iml" filepath="$PROJECT_DIR$/.idea/Codefield.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HackerRank/HackerRank.iml" filepath="$PROJECT_DIR$/../HackerRank/HackerRank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SandBox/SandBox.iml" filepath="$PROJECT_DIR$/../SandBox/SandBox.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleDataTransferApp/SimpleDataTransferApp.iml" filepath="$PROJECT_DIR$/SimpleDataTransferApp/SimpleDataTransferApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleMVC/SimpleMVC1.iml" filepath="$PROJECT_DIR$/SimpleMVC/SimpleMVC1.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBootMvc/SpringBootMvc.iml" filepath="$PROJECT_DIR$/SpringBootMvc/SpringBootMvc.iml" />

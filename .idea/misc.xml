@@ -8,7 +8,14 @@
       <list>
         <option value="$PROJECT_DIR$/SpringBootMvc/pom.xml" />
         <option value="$PROJECT_DIR$/../SimpleMVC/pom.xml" />
+        <option value="$PROJECT_DIR$/../HackerRank/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/SpringBootMvc/HackerRank/pom.xml" />
+        <option value="$PROJECT_DIR$/../SandBox/HackerRank/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
